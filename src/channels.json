@@ -1,0 +1,110 @@
+[
+  {
+    "country": "Brazil",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/br.svg",
+    "channels": [
+      {
+        "name": "Brazil - All Channels",
+        "url": "https://iptv-org.github.io/iptv/countries/br.m3u",
+        "category": "National",
+        "image": ""
+      },
+      {
+        "name": "São Paulo State",
+        "url": "https://iptv-org.github.io/iptv/subdivisions/br-sp.m3u",
+        "category": "State",
+        "image": ""
+      },
+      {
+        "name": "Rio de Janeiro State",
+        "url": "https://iptv-org.github.io/iptv/subdivisions/br-rj.m3u",
+        "category": "State",
+        "image": ""
+      },
+      {
+        "name": "Minas Gerais State",
+        "url": "https://iptv-org.github.io/iptv/subdivisions/br-mg.m3u",
+        "category": "State",
+        "image": ""
+      },
+      {
+        "name": "Rio Grande do Sul State",
+        "url": "https://iptv-org.github.io/iptv/subdivisions/br-rs.m3u",
+        "category": "State",
+        "image": ""
+      },
+      {
+        "name": "Bahia State",
+        "url": "https://iptv-org.github.io/iptv/subdivisions/br-ba.m3u",
+        "category": "State",
+        "image": ""
+      },
+      {
+        "name": "Paraná State",
+        "url": "https://iptv-org.github.io/iptv/subdivisions/br-pr.m3u",
+        "category": "State",
+        "image": ""
+      },
+      {
+        "name": "Santa Catarina State",
+        "url": "https://iptv-org.github.io/iptv/subdivisions/br-sc.m3u",
+        "category": "State",
+        "image": ""
+      },
+      {
+        "name": "São Paulo City",
+        "url": "https://iptv-org.github.io/iptv/cities/brsao.m3u",
+        "category": "City",
+        "image": ""
+      },
+      {
+        "name": "Rio de Janeiro City",
+        "url": "https://iptv-org.github.io/iptv/cities/brrio.m3u",
+        "category": "City",
+        "image": ""
+      },
+      {
+        "name": "Brasília",
+        "url": "https://iptv-org.github.io/iptv/cities/brbsb.m3u",
+        "category": "City",
+        "image": ""
+      },
+      {
+        "name": "Porto Alegre",
+        "url": "https://iptv-org.github.io/iptv/cities/brpoa.m3u",
+        "category": "City",
+        "image": ""
+      },
+      {
+        "name": "Curitiba",
+        "url": "https://iptv-org.github.io/iptv/cities/brcwb.m3u",
+        "category": "City",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "country": "Portugal",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/pt.svg",
+    "channels": [
+      {
+        "name": "Portugal - All Channels",
+        "url": "https://iptv-org.github.io/iptv/countries/pt.m3u",
+        "category": "National",
+        "image": ""
+      }
+    ]
+  },
+  {
+    "country": "Angola",
+    "flag": "https://flagicons.lipis.dev/flags/4x3/ao.svg",
+    "channels": [
+      {
+        "name": "Angola - All Channels",
+        "url": "https://iptv-org.github.io/iptv/countries/ao.m3u",
+        "category": "National",
+        "image": ""
+      }
+    ]
+  }
+]
